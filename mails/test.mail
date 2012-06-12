@@ -1,0 +1,33 @@
+USERNAME:nobody
+Mail ID:May-23-2012-09-15-48
+TARGET:t
+FROM_NAME:nobody
+FROM_ADDRESS:elliot@pdx.edu
+SUBJECT:mass mail test mark 2
+BODY:Dear Colleagues:
+
+This paragraph has prewrapped lines.  Lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Aliquam in neque eros. Nam gravida tempor
+neque, in mollis nulla feugiat sed. Phasellus condimentum eleifend dui
+sit amet egestas. Proin ut rhoncus lacus. Sed vestibulum fringilla
+adipiscing. Vestibulum venenatis imperdiet augue sed dapibus. Aenean
+euismod, metus eget tincidunt viverra, mauris risus pretium lectus,
+sed tincidunt tellus ligula tincidunt mi. Pellentesque feugiat, sem in
+suscipit ultricies, mi dolor pharetra leo, egestas tristique mauris
+urna ac magna. Sed non lobortis nulla. Sed a nibh tortor, eu luctus
+lacus. Etiam nulla mi, mattis a sollicitudin ac, pharetra eu
+arcu. Etiam ultrices lobortis nunc, ut vestibulum nibh placerat
+quis. Morbi non nulla nibh.
+
+This paragraph has very long lines. Suspendisse velit dolor, commodo nec aliquam vitae, cursus id odio. Aliquam eu dui cursus sapien suscipit lobortis id eget metus. Fusce vestibulum adipiscing justo, in aliquam massa congue at. Vestibulum scelerisque porttitor laoreet. Integer ac malesuada turpis. Vivamus consectetur gravida dui, et mollis felis porttitor mattis. Sed feugiat cursus tellus, vitae egestas odio ultricies in. Aliquam dictum ipsum et leo rutrum sed congue odio posuere.
+
+Vestibulum lobortis elit at diam dictum commodo. Nulla ultrices blandit elit, et malesuada neque facilisis eu. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus euismod, velit nec rutrum aliquam, nisl turpis vehicula urna, in egestas ligula ligula sed urna. Pellentesque malesuada dignissim cursus. Nunc quis ipsum a nisl pellentesque iaculis at ac nibh. Fusce elit nisi, mattis faucibus pellentesque et, cursus vel sapien. Nullam eget mauris dui. Donec velit odio, pellentesque vel molestie id, ultricies egestas mauris. Cras porta lacus id mi tempus blandit. Duis adipiscing fermentum nulla imperdiet vestibulum. Nam eros ante, aliquam non egestas et, varius ac elit.
+
+Thanks for your consideration. The following has some unicode quotes.
+‘—’
+“—”
+'—'
+"—"
+‹—›
+«—»
+
